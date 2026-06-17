@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Suma 👋
 
-<!--
-**Suma-s-h/Suma-s-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer
 
-Here are some ideas to get you started:
+💻 Passionate about building web applications using Python, Django, JavaScript, HTML, CSS, and SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+- Python
+- Django
+- JavaScript
+- HTML5
+- CSS3
+- SQL
+- Git & GitHub
+
+### Projects
+
+🚀 Portfolio Website  
+A personal portfolio showcasing my skills and projects.
+
+🚀 MultiFloor BillDesk  
+Billing and management system for multi-floor retail stores.
+
+🚀 Customer API  
+REST API project built using Django.
+
+### Currently Learning
+
+- Advanced Django
+- REST APIs
+- Modern JavaScript
+- Full Stack Development
+
+### Goals
+
+- Build scalable web applications
+- Improve frontend and backend development skills
+- Contribute to open-source projects
+
+📍 India
